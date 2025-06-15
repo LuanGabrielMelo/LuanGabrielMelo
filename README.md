@@ -5,7 +5,13 @@
 - 👨🏾‍💼👨🏾‍💻 currently working as technical support and web application development (currently with AI assistance) ...
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: My current passions are programming, cooking, English, music and boxing.
-- - 📫 To contact me, just select one of the buttons below and each one will direct you to the desired platform.
+- 📫 To contact me, just select one of the buttons below and each one will direct you to the desired platform.
+
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
 
  <div style="display: inline_block"><br>
