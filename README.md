@@ -1,43 +1,127 @@
-### 👋 Hi, I’m @LuanGabrielMelo
- <h1> about me:</h1>
+# 👋 Olá! Eu sou Luan Gabriel Melo
 
-- 👀 I am interested and am studying the following languages ​​and tools:
-   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Power-BI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+da+Computação;Estagiário+de+TI+na+Elétrica+Bahiana;Desenvolvedor+em+Formação;Apaixonado+por+Tecnologia!" />
 </div>
 
-- 👨🏾‍💼👨🏾‍💻 currently working as technical support and web application development (currently with AI assistance) ...
-- 👨🏾‍💼 Pronouns: he/his
-- ⚡ Fun fact: My current passions are programming, cooking, English, music and boxing.
-- 📫 To contact me, simply select one of the icons below and each one will direct you to the platform represented:
+## 👨‍💻 Sobre Mim
+
+Estudante de **Engenharia da Computação** (7º semestre) apaixonado por tecnologia e inovação. Atualmente trabalho como **Estagiário de TI na Elétrica Bahiana**, onde desenvolvo soluções práticas combinando suporte técnico e desenvolvimento de aplicações web com auxílio de IA.
+
+Tenho experiência sólida em suporte técnico (hardware/software) e análise de dados em Oracle, sempre buscando otimizar processos e resolver desafios tecnológicos do dia a dia corporativo.
+
+---
+
+## 💼 Experiência Profissional
+
+**🔧 Estagiário de TI** | *Elétrica Bahiana*
+- 🖥️ Suporte técnico completo (hardware e software)
+- 🗃️ Consultas e análises avançadas em banco de dados Oracle
+- 🤖 Desenvolvimento de aplicações web com assistência de IA
+- 📊 Resolução de demandas internas e otimização de processos
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Engenharia da Computação** | 7º Semestre  
+*Focado em desenvolvimento de software, sistemas embarcados e análise de dados*
+
+---
+
+## 🛠️ Skills & Tecnologias
+
+### **Linguagens de Programação**
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+### **Frontend Development**
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+### **Banco de Dados & Analytics**
+<div style="display: inline_block">
+  <img align="center" alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Power BI" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
+</div>
+
+### **Áreas de Expertise**
+- 🔧 **Suporte Técnico:** Hardware/Software troubleshooting
+- 💻 **Desenvolvimento Web:** Aplicações com IA integration
+- 📊 **Análise de Dados:** Oracle queries e relatórios
+- 🤖 **IA Assistida:** Desenvolvimento com ferramentas de IA
+
+---
+
+## 🚀 Projetos em Destaque
+
+🔜 **Portfólio em construção** - Projetos profissionais e acadêmicos serão adicionados em breve!
+
+*💡 Trabalhando em soluções inovadoras na Elétrica Bahiana e projetos pessoais de desenvolvimento web*
+
+---
+
+## 🎯 Objetivos Atuais
+
+- 🎨 Aprofundar conhecimentos em **React.js** e **Node.js**
+- 📈 Expandir expertise em **análise de dados** com Python
+- 🌐 Desenvolver projetos **full-stack** completos
+- 🤝 Contribuir para projetos **open source**
+- 🏆 Concluir a graduação com excelência
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanGabrielMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanGabrielMelo&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## ⚡ Curiosidades
+
+- 🍳 **Paixão pela culinária** - Sempre experimentando receitas novas
+- 🎵 **Música** - Relaxamento e inspiração para programar
+- 🥊 **Boxe** - Disciplina e foco que aplico no código
+- 🇺🇸 **Inglês** - Constantemente aprimorando para expandir oportunidades
+- 💡 **IA & Tecnologia** - Fascinado pelas possibilidades da inteligência artificial
+
+---
+
+## 📫 Vamos Conectar?
+
+<div align="center">
   
-  <div> 
-  
-  <a href="https://www.instagram.com/lg_melo92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luansantomelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luan-gabriel-685318254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lg_melo92/)
+  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luansantomelo@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-gabriel-685318254/)
   
 </div>
 
-<h1>MY STATS ON GITHUB:</h1>
+---
 
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<div align="center">
+  
+  *"A tecnologia move o mundo, mas são as pessoas que movem a tecnologia."*
+  
+  **💻 Sempre aberto para colaborações e novos desafios! 🚀**
+  
 </div>
 
+---
 
-
-  
-  ##
- 
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuanGabrielMelo&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
