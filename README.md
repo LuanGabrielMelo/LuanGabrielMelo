@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Luan Gabriel Melo
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+da+Computação;Estagiário+de+TI+na+Elétrica+Bahiana;Desenvolvedor+em+Formação;Apaixonado+por+Tecnologia!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+da+Computação;Estagiário+de+TI+da+Elétrica+Bahiana;Desenvolvedor+em+Formação;Apaixonado+por+Tecnologia!" />
 </div>
 
 ## 👨‍💻 Sobre Mim
@@ -81,14 +81,23 @@ Tenho experiência sólida em suporte técnico (hardware/software) e análise de
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanGabrielMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
+
+
+---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanGabrielMelo&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
+### **🤖🗣linguas ultilizadas:**
+
+<div align="center"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
 
 ## ⚡ Curiosidades
 
