@@ -1,14 +1,16 @@
-# 👋 Olá! Eu sou Luan Gabriel Melo
+# 👋 Hello! I'm Luan Gabriel Melo
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+da+Computação;Estagiário+de+TI+da+Elétrica+Bahiana;Desenvolvedor+em+Formação;Apaixonado+por+Tecnologia!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1B03A36&size=35&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Student;IT+Intern+at+Elétrica+Bahiana;Developer+in+Training;Passionate+about+Technology!" />
 </div>
 
-## 👨‍💻 Sobre Mim
 
-Estudante de **Engenharia da Computação** (7º semestre) apaixonado por tecnologia e inovação. Atualmente trabalho como **Estagiário de TI na Elétrica Bahiana**, onde desenvolvo soluções práticas combinando suporte técnico e desenvolvimento de aplicações web com auxílio de IA.
 
-Tenho experiência sólida em suporte técnico (hardware/software) e análise de dados em Oracle, sempre buscando otimizar processos e resolver desafios tecnológicos do dia a dia corporativo.
+## 👨‍💻 about me 
+
+**Computer Engineering** student (7th semester) passionate about technology and innovation. I currently work as an **IT Intern at Elétrica Bahiana**, where I develop practical solutions combining technical support and web application development with the help of AI.
+
+I have solid experience in technical support (hardware/software) and data analysis in Oracle, always seeking to optimize processes and solve technological challenges in the corporate day-to-day.
 
 ---
 
