@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github.com/LuanGabrielMelo/redemeLuanMelo/blob/main/anime-luan.png" width="300px" />
 
-**Computer Engineering** student (7th semester) passionate about technology and innovation. I currently work as an **IT Intern at Elétrica Bahiana**, where I develop practical solutions combining technical support and web application development with the help of AI.
+**Computer Engineering** student (8th semester) passionate about technology and innovation. I currently work as an **IT Intern at Elétrica Bahiana**, where I develop practical solutions combining technical support and web application development with the help of AI.
 
 I have solid experience in technical support (hardware/software) and data analysis in Oracle, always seeking to optimize processes and solve technological challenges in the corporate day-to-day.
 
